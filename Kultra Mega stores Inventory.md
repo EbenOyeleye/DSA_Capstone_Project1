@@ -39,7 +39,7 @@ select top 3 sum(sales)'Total_sales', Region from [KMS Sql Case Study] group by 
 ``` SQL
 select top 3 sum(sales)'Total_sales', Region from [KMS Sql Case Study] group by Region order by sum(sales)
 ```
-**Q.3.** What were the total sales of appliances in Ontario?
+**Q.3.** What were the total sales of appliances in Ontario?  
 **Ans:** _736,991.54_  
 ``` SQL
 select SUM(sales)'Total_sales', Product_Sub_Category from [KMS Sql Case Study] where Product_Sub_Category = 'Appliances'
