@@ -28,7 +28,7 @@ There is a gender  gap.
  - Support
  - Sales
  - Account
- - Research and Development
+ - Research and Development  
    ![3-Salary_Structure](https://github.com/user-attachments/assets/f4e1682f-56ac-4c54-9a9c-fb7ca61cf919)
 
 **Q.4.** A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000  
