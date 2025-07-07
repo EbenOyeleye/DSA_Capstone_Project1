@@ -13,18 +13,38 @@ _“Now, the future of gender equality in Palmoria lies in your hands”_ – th
 
 **Q.1.** What is the gender distribution in the organization? Distil to regions and departments  
 **Ans:** 
+![Alt](https://github.com/EbenOyeleye/DSA_Capstone_Project1/blob/main/1-Gender_Distribution.JPG)
+
 **Q.2.** Show insights on ratings based on gender  
+**Ans:**  
+![Alt](https://github.com/EbenOyeleye/DSA_Capstone_Project1/blob/main/2-Gender_Ratings.JPG)
+
 **Q.3.** Analyse the company’s salary structure. Identify if there is a gender pay gap. If there is, identify the department and regions that should be the focus of management  
+**Ans:**  
+There is a gender  gap.  
+ - Kaduna needs to be focused on.
+ - Product Management
+ - Legal
+ - Support
+ - Sales
+ - Account
+ - Research and Development  
+![Alt](https://github.com/EbenOyeleye/DSA_Capstone_Project1/blob/main/3-Salary_Structure.JPG)
+
 **Q.4.** A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000  
  - Does Palmoria meet this requirement?  
-   **Ans:** Palmoria does not meet this requirement  
+   **Ans:** Palmoria does not meet this requirement. Only 30.87% of the total employees are paid $90,000 and above  
+   ![Alt](https://github.com/EbenOyeleye/DSA_Capstone_Project1/blob/main/4a-SalaryRequirement.JPG)
    
  - Show the pay distribution of employees grouped by a band of $10,000.  
-   **Ans:**
- - How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000, etc.?  
-   **Ans:**
+   **Ans:**  
+   ![Alt](https://github.com/EbenOyeleye/DSA_Capstone_Project1/blob/main/4b-Pay_Distribution_SalaryBand.JPG)
+   
+ - How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000, etc.?     
  - Also visualize this by regions  
-   **Ans:**
+   **Ans:**  
+   ![Alt](https://github.com/EbenOyeleye/DSA_Capstone_Project1/blob/main/4c-Pay_Distribution_SalaryBand_Region.JPG)
+   
 **Q.5.**
  - Calculate the amount to be paid as a bonus to individual employees  
    **Ans:**
